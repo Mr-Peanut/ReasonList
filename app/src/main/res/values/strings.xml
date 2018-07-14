@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReasonList</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确认</string>
+</resources>
